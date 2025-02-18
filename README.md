@@ -13,7 +13,7 @@ Resume Scanner is a tool that analyzes resumes and extracts key information usin
 1. Install dependencies:
    ```sh
    pip install -r requirements.txt
-cp .env.example .env
+   cp .env.example .env
 
 2. cp .env.example .env
 
